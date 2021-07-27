@@ -12,28 +12,28 @@ intro_paragraph: >-
   Bugs e correções são sempre bem-vindos. 
 
 
-  ⚡️Doações: <http://bit.ly/3bYMs1P>
+  ### **⚡️Doações:** 
 
 
-  🔥 Por favor, use as seguintes hashtags:
+  <http://bit.ly/3bYMs1P>
+
+
+  ### 🔥 Por favor, use as seguintes hashtags:
 
 
   **\#crash** - *Ao encontrar algum erro aleatório que te impossibilita de utilizar o aplicativo.*
 
 
-
   **\#visual** - *Quando você encontrar algum erro relacionado a Interface. Ou seja, algo que não atrapalhe na usabilidade.*
-
 
 
   **\#corrigido** - *Quando o erro que você encontrou anteriormente foi corrigido (Por favor, marque a mensagem do erro + como corrigir)*
 
 
-
   **\#bug** - *Quando você encontra um bug.*
 
 
-  🌝 Ao comunicar erros, inclua estas coisas:
+  ### **🌝 Ao comunicar erros, inclua estas coisas:**
 
 
   1. Passos para reproduzir o erro, o que esperava que acontecesse e, o que aconteceu. Sem estas informações, todas mensagens serão ignoradas. 
@@ -51,7 +51,8 @@ intro_paragraph: >-
      ✈️ Para outros aplicativos oficiais, informe o seu adorável bug aqui:
      <https://play.google.com/store>
 
-  ## **👉 Importante**
+  ### **👉 Importante**
+
 
   Por favor não seja irritante com perguntas repetitivas. Além disso, antes de fazer qualquer coisa, por favor faça uma pesquisa básica nas mensagens anteriores, alguém pode já ter feito a sua pergunta e/ou relatado o seu problema.
 
@@ -59,7 +60,7 @@ intro_paragraph: >-
   Use apenas o idioma espanhol, português ou inglês. A atualização e todas as informações necessárias estão disponíveis na mensagem fixada, não pergunte ou peça a atualização, do contrário você será banido. 
 
 
-  ***Perguntas sobre temas não serão respondidas aqui, se você tiver alguma, participe do grupo de temas.
+  *Perguntas sobre temas não serão respondidas aqui, se você tiver alguma, participe do grupo de temas.
 
-  [t.me/yxwathemegroup](t.me/yxwathemegroup)***
+  [t.me/yxwathemegroup](t.me/yxwathemegroup)*
 ---
