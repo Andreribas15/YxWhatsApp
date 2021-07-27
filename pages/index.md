@@ -6,7 +6,7 @@ section: home
 intro_paragraph: >-
   <b>Orientações</b>
 
-  Olá, seja bem vindo ao grupo.
+  Olá, seja bem vindo.
 
   Bugs e correções são sempre bem-vindos. 
 
